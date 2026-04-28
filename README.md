@@ -1,1 +1,1 @@
-apenas um exemplo de repostorio
+apenas um exemplo de repositório
